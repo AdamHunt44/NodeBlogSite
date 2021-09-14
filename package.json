@@ -1,0 +1,23 @@
+{
+  "name": "nodeblogsite",
+  "version": "1.0.0",
+  "description": "# Wesbite designed as a blog to practice and learn Javascript and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamHunt44/NodeBlogSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamHunt44/NodeBlogSite/issues"
+  },
+  "homepage": "https://github.com/AdamHunt44/NodeBlogSite#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
